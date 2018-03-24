@@ -124,7 +124,7 @@ namespace firstconsole
 
  ```powershell
 
-dotnet run "I want to learn more Core"
+PS C:\> dotnet run "I want to learn more Core"
 
 The message:
 I want to learn more Core
